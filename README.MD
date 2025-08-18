@@ -1,4 +1,4 @@
-URL Shortener Project: 22691a05C9
+URL Shortener
 Folder Structure
 
 logging-middleware: Logging middleware implementation for backend and frontend.
@@ -94,3 +94,4 @@ Notes
 Storage: Uses in-memory Map, so data is lost on server restart. Suitable for development/testing.
 Logging: Sends logs to Test Server for all requests and actions.
 Responsive Design: Frontend tested for mobile and desktop views using Material UI.
+
