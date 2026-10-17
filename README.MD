@@ -95,3 +95,10 @@ Storage: Uses in-memory Map, so data is lost on server restart. Suitable for dev
 Logging: Sends logs to Test Server for all requests and actions.
 Responsive Design: Frontend tested for mobile and desktop views using Material UI.
 
+---
+
+## Ownership and licence
+
+Copyright (c) 2025-2026 **Mohammed Jabir Hussain Shaik** ([@thejabirhussain](https://github.com/thejabirhussain)). **All rights reserved.**
+
+This is proprietary work, published for viewing and evaluation only. Copying, reusing, modifying, redistributing, using it to train AI models, or presenting any part of it as your own is **not permitted** without written permission. See [LICENSE](LICENSE). Permission requests: thejabirhussain@gmail.com
